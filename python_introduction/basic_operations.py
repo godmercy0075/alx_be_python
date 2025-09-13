@@ -1,0 +1,12 @@
+# basic operation in python
+# assign variables
+number1 = 10
+number2 = 5 
+# lets do some basic operations
+sum_result = number1 + number2
+subtraction_result = number1 - number2
+multiplication_result = number1 * number2
+# print result in required format
+print(f"Addition of {number1} and {number2} is: {sum_result}")
+print(f"Subtraction of {number1} and {number2} is: {subtraction_result}")
+print(f"Multiplication of {number1} and {number2} is: {multiplication_result}")
